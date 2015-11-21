@@ -1,6 +1,6 @@
 {
   "name": "array_extras",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Adds Java ArrayList-like functionality to JavaScript arrays.",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "author": "Josh Castle <joshrcastle@gmail.com> (https://twitter.com/jrc03c)",
   "license": "ISC",
   "repository": {
-	  "type" : "git",
-	  "url" : "https://github.com/jrc03c/node_array_extras.git"
+    "type": "git",
+    "url": "https://github.com/jrc03c/node_array_extras.git"
   }
 }
