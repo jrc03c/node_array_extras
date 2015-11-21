@@ -11,5 +11,9 @@
     "arrays"
   ],
   "author": "Josh Castle <joshrcastle@gmail.com> (https://twitter.com/jrc03c)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+	  "type" : "git",
+	  "url" : "https://github.com/jrc03c/node_array_extras.git"
+  }
 }
