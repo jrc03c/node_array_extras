@@ -1,6 +1,6 @@
 {
   "name": "array_extras",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Adds Java ArrayList-like functionality to JavaScript arrays.",
   "main": "index.js",
   "scripts": {
