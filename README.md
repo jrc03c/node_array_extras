@@ -19,6 +19,9 @@ arrayOfThings.remove("foo");
 arrayOfThings.add("bar");
 // ['foo', 'foo', 'foo', 'bar']
 
+arrayOfThings.set();
+// ['foo', 'bar']
+
 arrayOfThings.removeAll("foo");
 // ['bar']
 
