@@ -30,3 +30,15 @@ Array.prototype.contains = function(obj){
 
 	return false;
 }
+
+Array.prototype.set = function(){
+	var a = [];
+
+	for (var i=0; i<this.length; i++){
+		if (!a.contains(this[i])){
+			a.add(this[i]);
+		}
+	}
+
+	return a;
+}
