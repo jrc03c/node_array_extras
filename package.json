@@ -1,0 +1,15 @@
+{
+  "name": "arrayextras",
+  "version": "0.1",
+  "description": "Adds Java ArrayList-like functionality to JavaScript arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "arrays"
+  ],
+  "author": "Josh Castle <joshrcastle@gmail.com> (https://twitter.com/jrc03c)",
+  "license": "ISC"
+}
