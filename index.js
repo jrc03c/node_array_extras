@@ -145,8 +145,3 @@ Array.prototype.toSet = function(){
 
 	return set;
 }
-
-Array.prototype.removeAllOccurrences = function(item){
-	while (this.contains(item)) this.remove(item);
-	return true;
-}
