@@ -7,7 +7,7 @@ A few of the methods from the Java `ArrayList` class have intentionally not been
 Here's the API:
 
 Return Type	| Name					| Parameters
------------ | --------------------- | -----------
+:---------- | :-------------------- | :---------
 *boolean*	| **add**				| ([index,] object)
 *boolean*	| **addAll**			| ([index,] objects)
 *undefined*	| **clear**				| ()
