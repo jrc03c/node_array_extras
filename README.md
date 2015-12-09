@@ -1,6 +1,6 @@
 _NOTE: I don't know what I'm doing. Sorry for any inconvenience._
 
-To be quite honest, I always forget the stupid little quirks of JavaScript arrays, and I hate having to re-learn them every time I return to web work. I do, however, spend a lot of time in Java, and the [`ArrayList`](https://docs.oracle.com/javase/7/docs/api/java/util/ArrayList.html) has become my good friend...so good, in fact, that I've attempted to implement about 99% of it in JavaScript here.
+To be quite honest, I always forget the stupid little quirks of JavaScript arrays, and I hate having to re-learn them every time I return to web work. I do, however, spend a lot of time in Java, and the [`ArrayList`](https://docs.oracle.com/javase/7/docs/api/java/util/ArrayList.html) has become my good friend...so good, in fact, that I've attempted to implement most of it in JavaScript here.
 
 A few of the methods from the Java `ArrayList` class have intentionally not been implemented for reasons of JavaScript: `iterator()`, `listIterator()`, and `toArray()`. On the other hand, I've added a `toSet()` method. Please read the Java documentation for more details about what each method does.
 
