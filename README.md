@@ -4,6 +4,18 @@ To be quite honest, I always forget the stupid little quirks of JavaScript array
 
 A few of the methods from the Java `ArrayList` class have intentionally not been implemented for reasons of JavaScript: `iterator()`, `listIterator()`, and `toArray()`. On the other hand, I've added a `toSet()` method. Please read the Java documentation for more details about what each method does.
 
+To use this module, you merely have to install it:
+
+```
+npm install array_extras
+```
+
+And then require it once:
+
+```
+require("array_extras");
+```
+
 Here's the API:
 
 Return Type	| Name					| Parameters
